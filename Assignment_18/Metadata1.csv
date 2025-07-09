@@ -1,0 +1,3 @@
+﻿RawTableName,RawTableColumn,CuratedTableName,CuratedTableColumn,PresentationTableName,PresentationTableColumn
+User,ID,Employee,EmpID,Emp,EmpID
+User,Name,Employee,EmpName,Emp,EmpName
